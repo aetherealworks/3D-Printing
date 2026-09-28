@@ -1,15 +1,15 @@
 # 3D-Printing
 Æthereal Works - 3D-printing resources
 
-Public [Bambu Studio](https://bambulab.com/en/download/studio) filament profiles from **[Æthereal Works](https://www.aetherealworks.com)** ([GitHub](https://github.com/aetherealworks)).
+ **[Æthereal Works](https://www.aetherealworks.com)** ([GitHub](https://github.com/aetherealworks)).
 
-This repo is a simple file tree. Use the README links below to move around — there is no separate site for these presets.
+ This repo is a simple file tree of some helpful resources we thought we should share. Use the README links below to move around.
 
 ## Navigation
 
-- [Brand / website](https://www.aetherealworks.com)
+- [aetherealworks.com](https://www.aetherealworks.com)
 - [Filament profiles](filament/)
-- [Siraya Tech Roamr TPU Air HR (H2C 0.6)](filament/siraya-tech-roamr-tpu-air-hr/) — the only pack so far
+- [Siraya Tech Roamr TPU Air HR 85A (BBL H2C 0.6mm Nozzle)](filament/siraya-tech-roamr-tpu-air-hr/)
 
 ## What's here
 
