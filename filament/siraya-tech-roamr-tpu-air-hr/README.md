@@ -14,6 +14,8 @@ Download this Bambu Studio **85A test project** (`.3mf`) and open it in Studio:
 
 - [Siraya Tech - Roamer TPU Air HR 85a.3mf](h2c-0.6-nozzle/examples/Siraya%20Tech%20-%20Roamer%20TPU%20Air%20HR%2085a.3mf)
 
+25 mm cube test photos and printable letter-size display mat: [H2C · 0.6 mm nozzle](h2c-0.6-nozzle/#25-mm-cube-test).
+
 ## Speed tiers
 
 Two volumetric-flow (VFR) caps. Approximate linear speed is for **0.62 mm line width × 0.3 mm layer height**.
