@@ -3,7 +3,7 @@
 
  **[Æthereal Works](https://www.aetherealworks.com)** ([GitHub](https://github.com/aetherealworks)).
 
- This repo is a simple file tree of some helpful resources we thought we should share. Use the README links below to move around.
+ This repo is the Æthereal Works 3D-printing hub — a simple file tree of some helpful resources we thought we should share. Use the README links below to move around.
 
 ## Navigation
 
@@ -15,23 +15,9 @@
 
 **Filament only**, for now. Each pack is a folder of standalone Bambu Studio filament presets (`.json` + `.info` pairs).
 
+How to install those presets lives on the [filament README](filament/README.md#how-to-install-bambu-studio).
+
 Process and printer folders may appear later. They are not in this repo yet, and there are no empty stubs for them.
-
-## How to install (Bambu Studio)
-
-1. Download both files for each profile you want: the `.json` and the matching `.info`. Keep the pair together and keep the filenames as they are.
-2. Install them either way:
-   - **Drop-in:** copy the pair into your Bambu Studio user filament folder, then restart Studio or refresh the filament list.
-   - **Import:** use Bambu Studio’s import/config tools if you prefer not to touch the folder by hand.
-3. Select the profile in the filament dropdown. These presets are tagged for **Bambu Lab H2C, 0.6 mm nozzle**.
-
-Typical user filament folders (the numeric `user` id is the Bambu account folder Studio created):
-
-- **Windows:** `%APPDATA%\BambuStudio\user\<id>\filament`
-- **macOS:** `~/Library/Application Support/BambuStudio/user/<id>/filament`
-- **Linux:** `~/.config/BambuStudio/user/<id>/filament`
-
-Filenames use `mm-s` instead of `mm/s` so they stay valid on Windows.
 
 ## License / disclaimer
 

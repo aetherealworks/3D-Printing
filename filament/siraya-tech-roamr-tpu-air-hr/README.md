@@ -42,6 +42,6 @@ Same Shore set on both tiers. Higher nozzle temp increases foaming and lowers th
 - Tuned around **0.62 mm line width × 0.3 mm layer height**.
 - File names use `mm-s`, not `mm/s`, so the paths are valid on Windows.
 
-Each preset is a `.json` + `.info` pair. Install both; see the [repo README](../../README.md#how-to-install-bambu-studio) for drop-in and import steps.
+Each preset is a `.json` + `.info` pair. Install both; see the [filament README](../README.md#how-to-install-bambu-studio) for drop-in and import steps.
 
 [← Filament index](../)
