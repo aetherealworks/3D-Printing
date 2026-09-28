@@ -1,5 +1,7 @@
 # Siraya Tech Roamr TPU Air HR
 
+**[Æthereal Works - 3D-printing resources](../../)**
+
 Standalone Bambu Studio filament profiles for **[Siraya Tech Roamr TPU Air HR](https://siraya.tech/products/roamr-tpu-air-hr-85a-filament)** on a **Bambu Lab H2C** with a **0.6 mm nozzle**.
 
 Ten profiles, no inheritance (`inherits` is empty). Pick a speed tier, then a Shore estimate.

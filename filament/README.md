@@ -1,6 +1,8 @@
 # Filament profiles
 
-Standalone Bambu Studio **filament** presets from [Æthereal Works](https://www.aetherealworks.com). Process and printer presets are not included yet.
+**[Æthereal Works - 3D-printing resources](../)**
+
+Standalone Bambu Studio **filament** presets. Process and printer presets are not included yet.
 
 ## Packs
 
