@@ -15,4 +15,8 @@ Ten standalone filament presets. Each profile needs **both** the `.json` and the
 - `Siraya Tech Roamr TPU Air HR - 0.6 nozzle - 50 mm-s - 9.3 VFR - 70A`
 - `Siraya Tech Roamr TPU Air HR - 0.6 nozzle - 50 mm-s - 9.3 VFR - 68A`
 
+## Example project
+
+[Siraya Tech - Roamer TPU Air HR 85a.3mf](examples/Siraya%20Tech%20-%20Roamer%20TPU%20Air%20HR%2085a.3mf) — Bambu Studio **85A test project** (download and open in Studio).
+
 [← Pack notes](../)
