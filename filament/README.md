@@ -2,7 +2,7 @@
 
 **[Æthereal Works - 3D-printing resources](../)**
 
-Standalone Bambu Studio **filament** presets. Process and printer presets are not included yet.
+Standalone Bambu Studio **filament** presets.
 
 ## Packs
 
