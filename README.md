@@ -7,7 +7,6 @@
 
 ## Navigation
 
-- [aetherealworks.com](https://www.aetherealworks.com)
 - [Æthereal Works Links](https://www.aetherealworks.com/links)
 - [Siraya Tech Roamr TPU Air HR 85A (BBL H2C 0.6mm Nozzle)](filament/siraya-tech-roamr-tpu-air-hr/)
 
